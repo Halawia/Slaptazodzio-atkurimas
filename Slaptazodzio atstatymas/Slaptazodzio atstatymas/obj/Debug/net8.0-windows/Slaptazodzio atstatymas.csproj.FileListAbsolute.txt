@@ -1,0 +1,19 @@
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\bin\Debug\net8.0-windows\Slaptazodzio atstatymas.exe
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\bin\Debug\net8.0-windows\Slaptazodzio atstatymas.deps.json
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\bin\Debug\net8.0-windows\Slaptazodzio atstatymas.runtimeconfig.json
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\bin\Debug\net8.0-windows\Slaptazodzio atstatymas.dll
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\bin\Debug\net8.0-windows\Slaptazodzio atstatymas.pdb
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas_MarkupCompile.cache
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.g.resources
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.AssemblyInfoInputs.cache
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.AssemblyInfo.cs
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.csproj.CoreCompileInputs.cache
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.dll
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\refint\Slaptazodzio atstatymas.dll
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.pdb
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\Slaptazodzio atstatymas.genruntimeconfig.cache
+C:\Users\ignas\Desktop\Visual studio\Slaptazodzio atstatymas\Slaptazodzio atstatymas\obj\Debug\net8.0-windows\ref\Slaptazodzio atstatymas.dll
